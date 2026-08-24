@@ -20,7 +20,7 @@ muito mais do que um projeto grande e raso.
 ## O contexto de negócio
 
 Você vai desenhar o núcleo de um sistema de **check-in de pacientes** para a recepção
-de um hospital (o fluxo do totem). Parece simples, mas tem as características chatas de
+de um hospital (o fluxo do totem). Parece simples, mas tem as características complexas de
 um sistema real de saúde:
 
 - depende de **serviços externos instáveis** (um cadastro moderno em REST e um sistema
