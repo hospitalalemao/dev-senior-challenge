@@ -1,0 +1,8 @@
+{
+  "name": "legacy-service-agendamentos",
+  "version": "1.0.0",
+  "description": "Sistema legado de agendamentos (XML) para o desafio sênior",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.19.2" }
+}
